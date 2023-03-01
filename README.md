@@ -24,5 +24,5 @@
 ## Authors
 
 ---
-Ana Lončar
+Ana Lončar <br>
 Ivan Todorić
