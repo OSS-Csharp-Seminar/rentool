@@ -1,5 +1,4 @@
 # rentool
-# rentool
 
 ## Table of Contents
 ---
